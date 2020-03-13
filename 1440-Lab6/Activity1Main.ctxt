@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ setUp()
+comment0.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\ \ Sets\ up\ new\ I/O\ streams.\r\n\ Creates\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ tearDown()
+comment1.text=\r\n\ Resets\ I/O\ streams.\r\n
+comment2.params=
+comment2.target=void\ testMainA1()
+comment2.text=\r\n\ Test\ main\ method\ given\ package\ A\ and\ 9\ hours\ used.\r\n
+comment3.params=
+comment3.target=void\ testMainA2()
+comment3.text=\r\n\ Tests\ the\ main\ method\ with\ package\ A\ and\ 21\ hours\ used.\r\n
+comment4.params=
+comment4.target=void\ testMainC1()
+comment4.text=\r\n\ Tests\ the\ main\ method\ with\ package\ C.\r\n
+numComments=5

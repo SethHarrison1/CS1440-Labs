@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ISP()
+comment0.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here\r\n\ \r\n\ \r\n
+comment1.params=p\ h
+comment1.target=ISP(char,\ double)
+comment1.text=\r\n\ constructor\r\n\ \r\n\ @param\ pkg\ p\r\n\ @parak\ hoursUsed\ h\r\n\ \r\n
+comment2.params=
+comment2.target=char\ getPkg()
+comment2.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here\r\n\ \r\n\ @return\ pkg\r\n
+comment3.params=
+comment3.target=double\ getHoursUsed()
+comment3.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here\r\n\ \r\n\ @return\ hoursUsed\r\n
+comment4.params=newPkg
+comment4.target=void\ setPkg(char)
+comment4.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here\r\n\ \r\n\ @param\ newPkg\ A\ sample\ paramater\ for\ this\ input\r\n
+comment5.params=newHoursUsed
+comment5.target=void\ setHoursUsed(double)
+comment5.text=\r\n\ An\ example\ of\ a\ method.\ \ Describe\ this\ method\ here\r\n\ \r\n\ @param\ hoursUsed\ input\r\n
+comment6.params=
+comment6.target=double\ calculateCharges()
+comment7.params=
+comment7.target=double\ printSavings()
+comment7.text=\r\n\ \r\n
+numComments=8
